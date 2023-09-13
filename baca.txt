@@ -1,0 +1,4 @@
+lu install dulu bahan di
+pip install -r bahan.txt
+kalo udah lu jalanin sc nya pake python brutal.py
+masukin angka huruf awal nomer dengan angka 8
